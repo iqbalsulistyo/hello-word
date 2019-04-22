@@ -1,4 +1,8 @@
 # hello-word
 =============
 
-iqbal sulistyo
+Nama   : Iqbal Sulistyo
+Alamat : Bekasi
+Status : JOmblo Fisabilillah 
+
+=============
